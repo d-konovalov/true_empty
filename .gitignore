@@ -1,3 +1,2 @@
-first_catalog/
-*.txt
-!first_catalog/*.rb
+first_catalog/*.txt
+
